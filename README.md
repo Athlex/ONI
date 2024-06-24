@@ -1,4 +1,4 @@
-01 - LUKS
-02 - PATCH
-03 - TOOLS
-04 - CONFIG
+* 01 - LUKS  
+* 02 - PATCH  
+* 03 - TOOLS  
+* 04 - CONFIG  
